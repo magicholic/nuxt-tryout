@@ -34,6 +34,9 @@ li {
   line-height: 50px;
   border-radius: 20px;
   text-align: center;
+}
+a {
   text-decoration: none;
+  color: black;
 }
 </style>
